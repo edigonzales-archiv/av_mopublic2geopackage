@@ -6,10 +6,10 @@ import osgeo.gdal
 from osgeo import ogr
 
 # VARS
-#GPKG_DIR_LV03 = "/opt/Geodaten/ch/so/kva/av/mopublic/gpkg/lv03/d/"
-#GPKG_DIR_LV95 = "/opt/Geodaten/ch/so/kva/av/mopublic/gpkg/lv95/d/"
-GPKG_DIR_LV03 = "/home/stefan/tmp/"
-GPKG_DIR_LV95 = "/home/stefan/tmp/"
+GPKG_DIR_LV03 = "/opt/Geodaten/ch/so/kva/av/mopublic/gpkg/lv03/d/"
+GPKG_DIR_LV95 = "/opt/Geodaten/ch/so/kva/av/mopublic/gpkg/lv95/d/"
+#GPKG_DIR_LV03 = "/home/stefan/tmp/"
+#GPKG_DIR_LV95 = "/home/stefan/tmp/"
 DB_HOST = "localhost"
 DB_NAME_LV03 = "xanadu2"
 DB_NAME_LV95 = "strelnikow"
